@@ -1,7 +1,7 @@
 
-<table width="80%" bgcolor="skyblue">
+<table width="90%" style="back-ground:lightblue">
   <tr>
-    <td colspan="2" align="center"><span style="font-size:24px">真相部落  有圖文 有音頻 有視頻 有真相</span></td>
+    <td colspan="2" align="center"><span style="font-size:28px">真相部落  有圖文 有音頻 有視頻 有真相</span></td>
   </tr>
    <tr>
     <td colspan="2"  align="center"><span style="font-size:20px">當前有效網址</span></td>

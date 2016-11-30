@@ -18,11 +18,11 @@
     <td colspan="2"  align="center"><a href="http://4.747.iiiii.info/zx/" target="_blank">
     <img src="http://4.747.iiiii.info/pic/2016/11/p7829911a215010452.jpg"><br>
 
-     <span style="font-size:28px;">飞天20位获得金奖学生的精彩表演</span></a></td>
+  </a></td>
 
 </table>
 
-
+#   [飞天20位获得金奖学生的精彩表演](http://4.747.iiiii.info/zx/)
 
 
 

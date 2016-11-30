@@ -1,7 +1,7 @@
 
 <table width="100%" style="back-ground:lightblue">
   <tr>
-    <td colspan="2" align="center"><span style="font-size:28px"> # 真相部落  有图文 有音频 有视频 有真相</span></td>
+    <td colspan="2" align="center"><span style="font-size:28px">真相部落  有图文 有音频 有视频 有真相</span></td>
   </tr>
    <tr>
     <td colspan="2"  align="center"><span style="font-size:20px">当前有效网址</span></td>

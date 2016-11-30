@@ -14,7 +14,7 @@ http://4.747.iiiii.info/<br>
 
 <table width="75%">
   <tr>
-    <td colspan="2" style="text-align:center;font-size:20px">真相部落  有圖文 有音頻 有視頻 有真相</td>
+    <td colspan="2"><span style="text-align:center;font-size:20px">真相部落  有圖文 有音頻 有視頻 有真相</span></td>
   </tr>
    <tr>
     <td colspan="2">當前有效網址</td>

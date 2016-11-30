@@ -1,5 +1,5 @@
 
-<table width="100%">
+<table width="80%">
   <tr>
     <td colspan="2" align="center"><span style="font-size:24px">真相部落  有圖文 有音頻 有視頻 有真相</span></td>
   </tr>
@@ -15,10 +15,10 @@
     <td><a href="http://4.747.iiiii.info/">http://4.747.iiiii.info/</a></td>
   </tr> 
    <tr>
-    <td colspan="2"  align="center"><a href="http://4.747.iiiii.info/zx/" target="_blank"><img src="http://4.747.iiiii.info/pic/2016/11/p7829911a215010452.jpg">
+    <td colspan="2"  align="center"><a href="http://4.747.iiiii.info/zx/" target="_blank">
+    <img src="http://4.747.iiiii.info/pic/2016/11/p7829911a215010452.jpg">
 
-                                   <span style="font-size:28px;">飞天20位获得金奖学生的精彩表演
-</a></td>
+     <span style="font-size:28px;">飞天20位获得金奖学生的精彩表演</span></a></td>
 
 </table>
 

@@ -21,8 +21,8 @@ http://4.747.iiiii.info/<br>
     <td colspan="2">真相部落  有圖文 有音頻 有視頻 有真相</td>
   </tr>
   <tr>
-    <td>[http://1.02.mine.nu/](http://1.02.mine.nu/)</td>
-    <td>[http://161.onmypc.org/](http://161.onmypc.org/)</td>
+    <td><a href="http://1.02.mine.nu/">http://1.02.mine.nu/</a></td>
+    <td><a href="http://161.onmypc.org/">http://161.onmypc.org/</a></td>
   </tr>
 </table>
 

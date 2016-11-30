@@ -10,20 +10,23 @@ http://4.747.iiiii.info/<br>
                                    飞天20位获得金奖学生的精彩表演
 </a>
 
- |  真相部落  有圖文 有音頻 有視頻 有真相 |
- | 當前有效網址：                      |
-| [http://1.02.mine.nu/](http://1.02.mine.nu/) |  [http://161.onmypc.org/](http://161.onmypc.org/) |
-| [http://42.myftp.org/](http://1.02.mine.nu/) |  [http://4.747.iiiii.info/](http://4.747.iiiii.info/)  |
 
 
-<table>
+<table width="75%">
   <tr>
     <td colspan="2">真相部落  有圖文 有音頻 有視頻 有真相</td>
+  </tr>
+   <tr>
+    <td colspan="2">當前有效網址</td>
   </tr>
   <tr>
     <td><a href="http://1.02.mine.nu/">http://1.02.mine.nu/</a></td>
     <td><a href="http://161.onmypc.org/">http://161.onmypc.org/</a></td>
   </tr>
+  <tr>
+    <td><a href="http://42.myftp.org/">http://42.myftp.org/</a></td>
+    <td><a href="http://4.747.iiiii.info/">http://4.747.iiiii.info/</a></td>
+  </tr> 
 </table>
 
 

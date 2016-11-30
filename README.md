@@ -16,7 +16,7 @@
   </tr> 
    <tr>
     <td colspan="2"  align="center"><a href="http://4.747.iiiii.info/zx/" target="_blank">
-    <img src="http://4.747.iiiii.info/pic/2016/11/p7829911a215010452.jpg"><br>
+    <img src="http://4.747.iiiii.info/pic/2016/11/p7829911a215010452.jpg" width="80%"><br>
 
   </a></td>
 

@@ -1,5 +1,5 @@
 
-<table width="70%" style="back-ground:lightblue">
+<table width="100%" style="back-ground:lightblue">
   <tr>
     <td colspan="2" align="center"><span style="font-size:28px">真相部落  有圖文 有音頻 有視頻 有真相</span></td>
   </tr>
@@ -16,7 +16,7 @@
   </tr> 
    <tr>
     <td colspan="2"  align="center"><a href="http://4.747.iiiii.info/zx/" target="_blank">
-    <img src="http://4.747.iiiii.info/pic/2016/11/p7829911a215010452.jpg" width="80%"><br>
+    <img src="http://4.747.iiiii.info/pic/2016/11/p7829911a215010452.jpg" width="100%"><br>
 
   </a></td>
 
@@ -25,5 +25,15 @@
 #        [飞天20位获得金奖学生的精彩表演](http://4.747.iiiii.info/zx/)
 
 
+<table width="100%" style="back-ground:lightblue">
+   <tr>
+    <td colspan="2"  align="center">
+    <a href="http://4.747.iiiii.info/zx/" target="_blank">
+      <img src="http://4.747.iiiii.info/pic/2016/11/10yearsOHinv.jpg" width="100%"><br>
+    </a>
+    </td>
+</table>
+
+#        [紀錄片《活摘 十年調查》完整版](http://4.747.iiiii.info/mp4/zx/2016/11/oh10yearsInv.mp4)
 
 

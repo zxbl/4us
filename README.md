@@ -13,5 +13,5 @@ http://4.747.iiiii.info/<br>
 # |  真相部落  有圖文 有音頻 有視頻 有真相 |
 | # 當前有效網址：                      |
 | :----------------------------------: |
-| [http://1.02.mine.nu/](http://1.02.mine.nu/) | [http://161.onmypc.org/](http://161.onmypc.org/) |
-| [http://42.myftp.org/](http://1.02.mine.nu/) | [http://4.747.iiiii.info/](http://4.747.iiiii.info/) |
+| [http://1.02.mine.nu/](http://1.02.mine.nu/) |  | [http://161.onmypc.org/](http://161.onmypc.org/) |
+| [http://42.myftp.org/](http://1.02.mine.nu/) |  | [http://4.747.iiiii.info/](http://4.747.iiiii.info/) |

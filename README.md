@@ -1,10 +1,10 @@
 
 <table width="100%" style="back-ground:lightblue">
   <tr>
-    <td colspan="2" align="center"><span style="font-size:28px">真相部落  有圖文 有音頻 有視頻 有真相</span></td>
+    <td colspan="2" align="center"><span style="font-size:28px"> # 真相部落  有图文 有音频 有视频 有真相</span></td>
   </tr>
    <tr>
-    <td colspan="2"  align="center"><span style="font-size:20px">當前有效網址</span></td>
+    <td colspan="2"  align="center"><span style="font-size:20px">当前有效网址</span></td>
   </tr>
   <tr style="font-size:20px;">
     <td><a href="http://1.02.mine.nu/">http://1.02.mine.nu/</a></td>
@@ -34,6 +34,6 @@
     </td>
 </table>
 
-#        [紀錄片《活摘 十年調查》完整版](http://4.747.iiiii.info/mp4/zx/2016/11/oh10yearsInv.mp4)
+#        [纪录片《活摘 十年调查》完整版 在线观看](http://4.747.iiiii.info/mp4/zx/2016/11/oh10yearsInv.mp4)
 
 

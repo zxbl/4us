@@ -11,7 +11,7 @@
     <td><a href="http://161.onmypc.org/">http://161.onmypc.org/</a></td>
   </tr>
   <tr style="font-size:20px;">
-    <td><a href="http://42.myftp.org/">http://42.myftp.org/</a></td>
+    <td><a href="http://22.myftp.biz/">http://22.myftp.biz/</a></td>
     <td><a href="http://4.747.iiiii.info/">http://4.747.iiiii.info/</a></td>
   </tr> 
    <tr>

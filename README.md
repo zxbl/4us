@@ -7,11 +7,11 @@
     <td colspan="2"  align="center"><span style="font-size:20px">当前有效网址</span></td>
   </tr>
   <tr style="font-size:20px;">
-    <td><a href="http://4u.14.iamallama.com/">http://4u.14.iamallama.com/</a></td>
+    <td><a href="http://4u.054.cinealuka.cl/">http://4u.054.cinealuka.cl/</a></td>
     <td><a href="http://007.67.from-pr.com/">http://007.67.from-pr.com/</a></td>
   </tr>
   <tr style="font-size:20px;">
-    <td><a href="http://22.myftp.biz/">http://22.myftp.biz/</a></td>
+    <td><a href="http://124.openmania.es/">http://124.openmania.es/</a></td>
     <td><a href="http://4.12.from-sd.com/">http://4.12.from-sd.com/</a></td>
   </tr> 
    <tr>

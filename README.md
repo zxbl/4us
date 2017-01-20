@@ -8,7 +8,7 @@
   </tr>
   <tr style="font-size:20px;">
     <td><a href="http://4u.054.cinealuka.cl/">http://4u.054.cinealuka.cl/</a></td>
-    <td><a href="http://007.67.from-pr.com/">http://007.67.from-pr.com/</a></td>
+    <td><a href="http://007.925.blueskew.com/">http://007.925.blueskew.com/</a></td>
   </tr>
   <tr style="font-size:20px;">
     <td><a href="http://124.openmania.es/">http://124.openmania.es/</a></td>

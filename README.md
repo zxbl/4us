@@ -11,7 +11,7 @@
     <td><a href="http://007.925.blueskew.com/">http://007.925.blueskew.com/</a></td>
   </tr>
   <tr style="font-size:20px;">
-    <td><a href="http://124.openmania.es/">http://124.openmania.es/</a></td>
+    <td><a href="http://324.triscall.com/">http://324.triscall.com/</a></td>
     <td><a href="http://4.12.from-sd.com/">http://4.12.from-sd.com/</a></td>
   </tr> 
    <tr>

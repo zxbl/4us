@@ -28,12 +28,12 @@
 <table width="100%" style="back-ground:lightblue">
    <tr>
     <td colspan="2"  align="center">
-    <a href="http://4.747.12.from-sd.com/mp4/zx/2016/11/oh10yearsInv.mp4" target="_blank">
-      <img src="http://4.12.from-sd.com/pic/2016/11/10yearsOHinv.jpg" width="100%"><br>
+    <a href="http://778.mrface.comm/mp4/zx/2016/11/oh10yearsInv.mp4" target="_blank">
+      <img src="http://778.mrface.com/pic/2016/11/10yearsOHinv.jpg" width="100%"><br>
     </a>
     </td>
 </table>
 
-#        [纪录片《活摘 十年调查》完整版 在线观看](http://4.12.from-sd.com/mp4/zx/2016/11/oh10yearsInv.mp4)
+#        [纪录片《活摘 十年调查》完整版 在线观看](http://778.mrface.com/mp4/zx/2016/11/oh10yearsInv.mp4)
 
 

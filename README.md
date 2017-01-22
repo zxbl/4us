@@ -7,11 +7,11 @@
     <td colspan="2"  align="center"><span style="font-size:20px">当前有效网址</span></td>
   </tr>
   <tr style="font-size:20px;">
-    <td><a href="http://4u.054.cinealuka.cl/">http://4u.054.cinealuka.cl/</a></td>
-    <td><a href="http://007.925.blueskew.com/">http://007.925.blueskew.com/</a></td>
+    <td><a href="http://391.mynetav.org/">http://391.mynetav.org/</a></td>
+    <td><a href="http://928.4mydomain.com/">http://928.4mydomain.com/</a></td>
   </tr>
   <tr style="font-size:20px;">
-    <td><a href="http://324.triscall.com/">http://324.triscall.com/</a></td>
+    <td><a href="http://778.mrface.com/">http://778.mrface.com/</a></td>
     <td><a href="http://4.12.from-sd.com/">http://4.12.from-sd.com/</a></td>
   </tr> 
    <tr>

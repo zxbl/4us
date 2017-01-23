@@ -7,7 +7,7 @@
     <td colspan="2"  align="center"><span style="font-size:20px">当前有效网址</span></td>
   </tr>
   <tr style="font-size:20px;">
-    <td><a href="http://391.mynetav.org/">http://391.mynetav.org/</a></td>
+    <td><a href="http://151.3-a.net/">http://151.3-a.net/</a></td>
     <td><a href="http://928.4mydomain.com/">http://928.4mydomain.com/</a></td>
   </tr>
   <tr style="font-size:20px;">

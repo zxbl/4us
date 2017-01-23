@@ -8,10 +8,10 @@
   </tr>
   <tr style="font-size:20px;">
     <td><a href="http://151.3-a.net/">http://151.3-a.net/</a></td>
-    <td><a href="http://928.4mydomain.com/">http://928.4mydomain.com/</a></td>
+    <td><a href="http://56.isa-geek.org/">http://56.isa-geek.org/</a></td>
   </tr>
   <tr style="font-size:20px;">
-    <td><a href="http://778.mrface.com/">http://778.mrface.com/</a></td>
+    <td><a href="http://85.is-leet.com/">http://85.is-leet.com/</a></td>
     <td><a href="http://4.12.from-sd.com/">http://4.12.from-sd.com/</a></td>
   </tr> 
    <tr>
@@ -28,12 +28,12 @@
 <table width="100%" style="back-ground:lightblue">
    <tr>
     <td colspan="2"  align="center">
-    <a href="http://778.mrface.comm/mp4/zx/2016/11/oh10yearsInv.mp4" target="_blank">
-      <img src="http://778.mrface.com/pic/2016/11/10yearsOHinv.jpg" width="100%"><br>
+    <a href="http://85.is-leet.com/mp4/zx/2016/11/oh10yearsInv.mp4" target="_blank">
+      <img src="http://85.is-leet.com/pic/2016/11/10yearsOHinv.jpg" width="100%"><br>
     </a>
     </td>
 </table>
 
-#        [纪录片《活摘 十年调查》完整版 在线观看](http://778.mrface.com/mp4/zx/2016/11/oh10yearsInv.mp4)
+#        [纪录片《活摘 十年调查》完整版 在线观看](http://85.is-leet.com/mp4/zx/2016/11/oh10yearsInv.mp4)
 
 

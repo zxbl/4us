@@ -7,12 +7,12 @@
     <td colspan="2"  align="center"><span style="font-size:20px">当前有效网址</span></td>
   </tr>
   <tr style="font-size:20px;">
-    <td><a href="http://213.cmyartwork.com">http://151.3-a.net/</a></td>
-    <td><a href="http://56.isa-geek.org/">http://737.diyandoyan.com</a></td>
+    <td><a href="http://784.co-m.org">http://784.co-m.org</a></td>
+    <td><a href="http://252.afscme449.org">http://252.afscme449.org</a></td>
   </tr>
   <tr style="font-size:20px;">
-    <td><a href="http://85.is-leet.com/">http://643.chiemtinhviet.com</a></td>
-    <td><a href="http://4.12.from-sd.com/">http://073.batdekor.com</a></td>
+    <td><a href="http://213.cmyartwork.com">http://213.cmyartwork.com</a></td>
+    <td><a href="http://737.diyandoyan.com">http://737.diyandoyan.com</a></td>
   </tr> 
    <tr>
     <td colspan="2"  align="center"><a href="http://073.batdekor.com/zx/" target="_blank">
